@@ -6,7 +6,7 @@ money but is expected to grow rapidly in the coming months.  WinjCoin uses peer-
 without any central authority: managing transactions and issuing money are carried
 out collectively by the network of miners that run this blockchain.
 
-Our Website: winjcoin.whatever.com
+Our Website: winjcoin.webnode.com
 ----------------------------------
 On our website you can find three important things:
 1. You can find the download for downloading the winjcoin wallet
